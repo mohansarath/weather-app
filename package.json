@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/sarathmohan007/weather-app#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.3",
     "request": "^2.85.0",
     "yargs": "^11.0.0"
   }
